@@ -15,6 +15,10 @@
 
 width: 1673px;
 height:1116px;
-background-image:url("../CSS/images/james_header.png") ;
+background-image:url("../CSS/images/james_header.png");
 background-repeat: no-repeat;
+display: block;
+margin-top: 0px;
+
+
 }
