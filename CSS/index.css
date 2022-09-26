@@ -17,8 +17,16 @@ width: 1673px;
 height:1116px;
 background-image:url("../CSS/images/james_header.png");
 background-repeat: no-repeat;
-display: block;
-margin-top: 0px;
+display:flex;
+flex-direction: column;
+
+}
+.navigation_bar{
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-end;
+      align-content: space-evenly;
 
 
 }
+
