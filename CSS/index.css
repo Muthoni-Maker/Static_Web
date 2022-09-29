@@ -11,22 +11,97 @@
       position:relative;
 
 }
-.header_container{
+#home{
 
 width: 1673px;
 height:1116px;
 background-image:url("../CSS/images/james_header.png");
 background-repeat: no-repeat;
-display:flex;
-flex-direction: column;
+position:absolute;
+top:-22px;
+left:0px;
 
 }
-.navigation_bar{
-      display: flex;
-      flex-direction: row;
-      justify-content: flex-end;
-      align-content: space-evenly;
+
+.nav{
+    position:absolute;
+    top:48px;
+    left:920px;
+    
+
+}
+.text_one{
+
+      position: absolute;
+      height: 116px;
+      width:378px;
+      left:100px;
+      top:181px;
+      font-family:'lato';
+      font-style: normal;
+      font-weight: 700;
+      font-size:48px;
+      line-height: 58px;
+      color:#404040;
+
+}
+.text_two{
+      position: absolute;
+      width:410px;
+      height:144px;
+      left:100px;
+      top:321px;
+      font-family:'lato';
+      font-style:normal;
+      font-weight:400;
+      font-size:16px;
+      line-height:24px;
+      color:#404040;
+
 
 
 }
+#about{
+
+      position:absolute;
+      width:1440px;
+      height:709px;
+      left:0px;
+      top:740px;
+      background-color:#F2F2F2;
+
+}
+h1{
+    position:absolute;
+    height:21px ;
+    width:143px ;
+    left:625px;
+    top:86px ;
+    font-size: 32px;
+    font-family:'lato' ;
+    font-weight:700 ;
+    font-style:normal ;
+    color: #404040;
+    line-height: 21px;
+
+
+}
+.about_text{
+
+    position:absolute;
+    height:504px ;
+    width:715px ;
+    left:625px ;
+    top:115px ;
+    font-size: 16px;
+    font-family:'lato' ;
+    font-weight:400 ;
+    font-style:normal ;
+    color: #404040;
+    line-height: 24px;
+
+}
+
+
+
 
