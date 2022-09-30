@@ -11,6 +11,14 @@
       position:relative;
 
 }
+li{
+      display: inline-block;
+      position: absolute;
+
+
+
+
+}
 #home{
 
 width: 1673px;
@@ -71,6 +79,18 @@ left:0px;
       background-color:#F2F2F2;
 
 }
+
+#image_two{
+
+       width:500px ;
+       height:87% ;
+       position:absolute;
+       top:86px;
+       left:99.08px;
+
+
+
+}
 h1{
     position:absolute;
     height:21px ;
@@ -102,6 +122,33 @@ h1{
 
 }
 
+#gallery{
+    position: absolute;
+    top:1449px;
+    left:0px;
+    height:1342px;
+    width:1440px;
+    background-color:#F2F2F2;
+
+
+}
+h2{   
+      position: absolute;
+      width: 105px;
+     height: 21px;
+     left: 667px;
+    top: 12px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 21px;
+    color: #404040;
+
+
+
+}
 
 
 
