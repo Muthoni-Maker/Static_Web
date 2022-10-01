@@ -149,6 +149,78 @@ h2{
 
 
 }
+.gallery_text{
+    position:absolute;
+    color: #404040;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    left:578px;
+    top:49px;
+
+}
+.lady{
+
+      position:absolute;
+      height:580px;
+      width:400px;
+      left:100px;
+      top:75px;
+}
+.ladytwo{
+
+      position:absolute;
+      height:580px;
+      width:435px;
+      left:520px;
+      top:75px;
+
+
+}
+
+.ladythree{
+
+      position:absolute;
+      height:580px;
+      width:400px;
+      left:970px;
+      top:75px;
+}
+
+.manone{
+
+      position:absolute;
+      height:570px;
+      width:400px;
+      left:100px;
+      top:710px;
+     
+
+}
+.lookup{
+      position:absolute;
+      height:570px;
+      width:400px;
+      left:520px;
+      top:710px;
+
+
+}
+.mantwo{
+
+      position:absolute;
+      height:570px;
+      width:400px;
+      left:970px;
+      top:710px;
 
 
 
+}
+.gallery_button{
+
+      position:absolute;
+      
+}
