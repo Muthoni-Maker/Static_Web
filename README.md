@@ -1,2 +1,2 @@
 # Static_Web
-This is my first push.It contains html content of a web project that I am working on inorder to master html5 and css3.
+Learning is a process.Welcom to my web development journey.The very first step I have taken is to learn the basic building blocks of web development.That is HTML5 and CSS3.To master the theory I learn ,I have committed myself to build this portfolio website I found online.It is a wonderful experience and I am loving it.
