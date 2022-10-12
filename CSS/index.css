@@ -9,16 +9,8 @@
       width: 1440px;
       background-color:#FFFFFF;
       position:relative;
-
 }
-li{
-      display: inline-block;
-      position: absolute;
 
-
-
-
-}
 #home{
 
 width: 1673px;
@@ -38,6 +30,14 @@ left:0px;
     top:26px;
     left:930px;
     
+
+}
+
+li{
+    display:inline;
+    margin-left:20px;
+
+
 
 }
 .text_one{
@@ -93,6 +93,11 @@ left:0px;
 
 
 }
+
+
+
+
+
 h1{
     position:absolute;
     height:21px ;
