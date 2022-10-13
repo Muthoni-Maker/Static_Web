@@ -36,10 +36,17 @@ left:0px;
 li{
     display:inline;
     margin-left:20px;
+    
 
 
 
 }
+ul{
+
+
+      cursor: pointer;
+}
+
 .text_one{
 
       position: absolute;
@@ -230,4 +237,17 @@ h2{
 
       position:absolute;
       
+}
+
+#contact{
+
+     position:absolute;
+     width: 1440px;
+     height: 914px;
+     left: 0px;
+     top: 3074px;
+
+
+
+
 }
