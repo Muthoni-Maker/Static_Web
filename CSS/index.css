@@ -36,7 +36,17 @@ left:0px;
 li{
     display:inline;
     margin-left:20px;
-    
+
+}
+a{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #404040;
+    text-decoration: none;
+
 
 
 
@@ -79,10 +89,77 @@ ul{
 
 }
 
+.home_button{
+
+      width:189px;
+      height:74px;
+      position:absolute;
+      top:500px;
+      left:100px;
+      border: 1px solid #afafaf;
+      border-radius: 1px;
+      box-sizing: border-box;
+      background-color:whitesmoke;
+      color: #404040; 
+      font-family: 'Lato';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 22px;
+      cursor: pointer;
+
+}
+
 .icons{
-      width: ;
+      width:200px ;
+      height:200px;
+      position:absolute;
+      left:1310px;
+      top:580px;
+   
+}
+.fa-facebook-official{
+      width:24px;
+      height:19.5px;
+      position:absolute;
+      top:0px;
+      left:6px;
+      color:#404040;
 
 
+}
+.fa-twitter{
+
+      width:24px;
+      height:19.5px;
+      position:absolute;
+      top:40px;
+      left:6px;
+      color:#404040;
+ 
+
+}
+.fa-instagram{
+
+      width:24px;
+      height:19.5px;
+      position:absolute;
+      top:80px;
+      left:6px;
+      color:#404040;
+
+
+
+
+}
+.fa-youtube-play{
+
+      width:24px;
+      height:19.5px;
+      position:absolute;
+      top:120px;
+      left:6px;
+      color:#404040;
 
 
 }
@@ -108,6 +185,7 @@ ul{
 
 
 }
+
 
 
 
@@ -241,11 +319,106 @@ h2{
 
 
 }
-.gallery_button{
+.gallery_btn{
 
       position:absolute;
+      top: 1283px;
+      left:625px;
+      width:189px;
+      height:50px;
+      box-sizing: border-box;
+      border:1px solid #404040;
+
       
 }
+
+
+
+#clients{
+
+      position: absolute;
+      width: 1440px;
+      height: 283px;
+      left: calc(50% - 1440px/2);
+      top: 2791px;
+      background: #F2F2F2;
+
+
+
+}
+#clients>:first-child{
+
+     position: absolute;
+      width: 164px;
+      height: 21px;
+      left: calc(50% - 164px/2 + 7px);
+      top: 21px;
+      font-family: 'Lato';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 32px;
+      line-height: 21px;
+      color: #404040;
+
+
+}
+
+.second_child{
+
+
+      position: absolute;
+      width: 343px;
+      height: 21px;
+      left: 538px;
+      top: 56px;
+      font-family: 'Lato';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 21px;
+      color: #404040;
+}
+.client_images{
+      position: absolute;
+      width: 1440px;
+      height: 150px;
+      left: calc(50% - 1440px/2);
+      top:137.55px;
+      background: #F2F2F2;
+
+}
+.dc_logo{
+
+      position:absolute;
+      height:102px;
+      width:300px;
+      top:110px;
+      left: calc(50% - 102px/2 - 569px);
+    
+
+}
+.vogue_logo{
+
+      position:absolute;
+      height:102px;
+      width:300px;
+      top:110px;
+      left: calc(50% - 62.61px/2 - 115.7px);
+      
+
+}
+.terra_logo{
+
+
+      position:absolute;
+      height:102px;
+      width:300px;
+      top:110px;
+      left: calc(50% - 295px/2 + 472.5px);
+
+
+}
+
 
 #contact{
 
@@ -254,8 +427,26 @@ h2{
      height: 914px;
      left: 0px;
      top: 3074px;
+     background: #F2F2F2;
 
 
 
+
+}
+#contact>:first-child{
+
+
+
+      position: absolute;
+      width: 168px;
+      height: 21px;
+      left: 636px;
+      top: 30px;
+      font-family: 'Lato';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 32px;
+      line-height: 21px;
+      color: #404040;
 
 }
