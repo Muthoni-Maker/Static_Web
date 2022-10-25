@@ -450,3 +450,109 @@ h2{
       color: #404040;
 
 }
+
+.contact_image{
+
+      position: absolute;
+      width: 400px;
+      height: 500px;
+      left: 99.08px;
+      top: 60px;
+      background-image: url(../html/Images/about.jpg);
+      background-size: cover;
+
+
+}
+.contact_second_child{
+      position: absolute;
+      width: 251px;
+      height: 21px;
+      left: 584px;
+      top: 64px;
+      font-family: 'Lato';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 21px;
+      color: #404040;
+
+}
+#contact>form{
+
+      box-sizing: border-box;
+      position: absolute;
+      width: 580px;
+      height: 100px;
+      left: 835px;
+      top: 150px;
+      border: 1px solid #404040;
+      border-radius: 5px;
+
+}
+
+#footer{
+      position: absolute;
+      width: 1440px;
+      height: 102px;
+      left: 0px;
+      top: 853px;
+      background: #F2F2F2;
+
+
+
+
+}
+
+#footer>p{
+position: absolute;
+width: 314px;
+height: 17px;
+left: 563px;
+top: 10px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #404040;
+
+}
+
+
+
+#footer>.fa-twitter{
+
+      display:inline;
+      position:absolute;
+      top:42px;
+      left: 45.17%;
+      width:24px;
+      height:20px;
+      bottom:1400px;
+
+}
+
+#footer>.fa-instagram{
+
+      display:inline;
+      position:absolute;
+      top:42px;
+      left: 49.26%;
+      width:24px;
+      height:20px;
+      bottom:1400px;
+
+}
+
+#footer>.fa-youtube-play{
+
+      display:inline;
+      position:absolute;
+      top:42px;
+      left: 53.26%;
+      width:24px;
+      height:20px;
+      bottom:1400px;
+
+}
+
