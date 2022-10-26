@@ -1,7 +1,7 @@
 *{
      padding: 0;
      margin: 0;
-
+    
 }
 
 .main_container{
@@ -9,17 +9,20 @@
       width: 1440px;
       background-color:#FFFFFF;
       position:relative;
+      box-sizing: border-box;
 }
 
 #home{
 
-width: 1673px;
+width: 1440px;
 height:1116px;
 background-image:url("../CSS/images/james_header.png");
 background-repeat: no-repeat;
 position:absolute;
 top:-22px;
 left:0px;
+margin-right:-22px;
+
 
 }
 
@@ -185,10 +188,6 @@ ul{
 
 
 }
-
-
-
-
 
 
 h1{
@@ -481,14 +480,28 @@ h2{
 
       box-sizing: border-box;
       position: absolute;
-      width: 580px;
-      height: 100px;
-      left: 835px;
-      top: 150px;
-      border: 1px solid #404040;
-      border-radius: 5px;
+      width: 720px;
+      height: 460px;
+      left: 700px;
+      top: 100px;
+      border:none;
+      background-color: aqua;
+     
+  
+}
+
+#contact>form>p{
+
+      font-family: 'Lato';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 24px;
+      line-height: 21px;
+      color: #404040;
+      /*padding:20px;*/
 
 }
+
 
 #footer{
       position: absolute;
@@ -502,6 +515,7 @@ h2{
 
 
 }
+
 
 #footer>p{
 position: absolute;
@@ -517,6 +531,7 @@ line-height: 17px;
 color: #404040;
 
 }
+
 
 
 
